@@ -21,6 +21,8 @@ Install the method to upload to the root directory of the website, unzip, open y
 
 Modify the home page custom link in the root directory index.php file 298 lines to start modifying each modified address, you need to modify two locations, and there is one at the 757 line.
 
+Demo address: http://apt.cydiabwcx.com
+
 中文说明
 
 改版的cydia
@@ -44,3 +46,4 @@ Modify the home page custom link in the root directory index.php file 298 lines 
 
 修改主页自定义链接在根目录index.php文件298行开始修改每改一个地址需要修改两个位置还有一个在757行开始
 
+演示地址:http://apt.cydiabwcx.com
