@@ -23,6 +23,8 @@ Modify the home page custom link in the root directory index.php file 298 lines 
 
 Demo address: http://apt.cydiabwcx.com
 
+Thanks to my partner's floating help
+
 中文说明
 
 改版的cydia
@@ -47,3 +49,5 @@ Demo address: http://apt.cydiabwcx.com
 修改主页自定义链接在根目录index.php文件298行开始修改每改一个地址需要修改两个位置还有一个在757行开始
 
 演示地址:http://apt.cydiabwcx.com
+
+感谢我的伙伴浮生的帮助
